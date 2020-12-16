@@ -3,7 +3,7 @@ import './App.css';
 
 const App = () => {
   const [items, setItems] = useState([
-    "oranges", "apples", "candy"
+    "Product1", "Product2", "Product3"
   ]);
   return (
     <div id="list-container">
